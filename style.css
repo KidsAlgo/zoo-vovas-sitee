@@ -1,0 +1,28 @@
+body {
+    font-family:'Trebuchet MS';
+    background-color:rgb(32, 32, 228);
+}
+.hh {
+background-color:orange;
+}
+.zoo {
+text-align:center;
+color:;
+margin-top:1 px;
+}
+
+main p {
+text-align:center;
+font-size:50 px;
+}
+footer {
+background-color:gray;
+}
+.adres {
+text-align:center;
+font-size:25 px;
+}
+.teleph {
+text-align:center;
+font-size:25 px;
+}
